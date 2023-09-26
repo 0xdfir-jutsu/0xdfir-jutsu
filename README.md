@@ -16,7 +16,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email Investigation Techniques](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/)
+- [XSS Bomb front-end update](https://leosmith.wtf/blog/xss-bomb-front-end.html)
+- [p3ng0s release](https://leosmith.wtf/blog/p3ng0s-release.html)
+- [Havoc C2 client python API extensions](https://leosmith.wtf/blog/havoc-c2-pythonapi.html)
+- [Release p3ng0s](https://leosmith.wtf/rice/)
+- [burp-http-to-notion Extension Devlog](https://leosmith.wtf/blog/burp-suite-to-notion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
