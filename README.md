@@ -14,14 +14,14 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email Investigation Techniques]([https://leosmith.wtf/blog/xss-bomb-front-end.html](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/))
+- [Email Investigation Techniques]([https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/))
 <!-- BLOG-POST-LIST:END -->
 
 ---
-![THM](https://tryhackme-badges.s3.amazonaws.com/fr0st29.png)
+<!--
 [![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
 [![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]
-
+-->
 
 ![p4p1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdfir-jutsu&show_icons=true&theme=synthwave&card_width=750)
 
@@ -48,4 +48,4 @@ repositories ranging from my personnal work to my portfolio projects and
 School Projects.
 -->
 
-[website]: [https://leosmith.xyz](https://0xdfir-jutsu.github.io/)
+[website]: [https://0xdfir-jutsu.github.io](https://0xdfir-jutsu.github.io/)
