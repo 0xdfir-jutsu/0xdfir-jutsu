@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+0xdfir+-+jutsu)](https://git.io/typing-svg)
 
 
 Let's hope my blind XSS description payload hits somewhere :penguin:
