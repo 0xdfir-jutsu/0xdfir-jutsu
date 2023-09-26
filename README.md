@@ -14,7 +14,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Email Investigation Techniques]([https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/))
+- [Email Investigation Techniques](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
