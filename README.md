@@ -3,10 +3,10 @@
 
 Let's hope my blind XSS description payload hits somewhere :penguin:
 
-## :name_badge: I'm a Cyber Security researcher and Developer!
+## :name_badge: I'm a Cyber Security Analyst!
 <img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
 
-- :peach: I'm currently learning linux kernel modules and Web Application pentest
+- :peach: I'm currently learning GIAC Certificates !
 - :tangerine: I often lose my temper doing bug bounty
 - :tomato: I'm looking for help on my latest project xss_bomb
 - :watermelon: You can reach me via linkedin
@@ -14,20 +14,16 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [XSS Bomb front-end update](https://leosmith.wtf/blog/xss-bomb-front-end.html)
-- [p3ng0s release](https://leosmith.wtf/blog/p3ng0s-release.html)
-- [Havoc C2 client python API extensions](https://leosmith.wtf/blog/havoc-c2-pythonapi.html)
-- [Release p3ng0s](https://leosmith.wtf/rice/)
-- [burp-http-to-notion Extension Devlog](https://leosmith.wtf/blog/burp-suite-to-notion.html)
+- [Email Investigation Techniques]([https://leosmith.wtf/blog/xss-bomb-front-end.html](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/))
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+![THM](https://tryhackme-badges.s3.amazonaws.com/fr0st29.png)
 [![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
 [![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]
 
 
-![p4p1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4p1&show_icons=true&theme=synthwave&card_width=750)
+![p4p1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdfir-jutsu&show_icons=true&theme=synthwave&card_width=750)
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,8 +48,4 @@ repositories ranging from my personnal work to my portfolio projects and
 School Projects.
 -->
 
-[website]: https://leosmith.xyz
-[linkedin]: https://www.linkedin.com/in/leo-smith/
-[tryhackme]: https://tryhackme.com/p/p4p1
-[twitter]: https://twitter.com/p4p1_ls
-[hackthebox]: https://www.hackthebox.eu/home/users/profile/311399
+[website]: [https://leosmith.xyz](https://0xdfir-jutsu.github.io/)
