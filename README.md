@@ -12,6 +12,8 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - :watermelon: You can reach me via linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
 
+[website]: [0xdfir-jutsu web](https://0xdfir-jutsu.github.io/)
+
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Email Investigation Techniques](https://0xdfir-jutsu.github.io/posts/Email-Investigate-Techniques/)
@@ -25,27 +27,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ![p4p1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdfir-jutsu&show_icons=true&theme=synthwave&card_width=750)
 
-<!--
-**p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Description
-At the age of 13, I created my first ever computer virus on a Windows XP and
-since then have been obsessed with to Security Research and Software Development.
-I am currently working on getting my OSCP and Pentest+ to be an expert in the
-field on Information Security and pen-testing. On this github I have a lot of
-repositories ranging from my personnal work to my portfolio projects and
-School Projects.
--->
-
-[website]: [https://0xdfir-jutsu.github.io](https://0xdfir-jutsu.github.io/)
